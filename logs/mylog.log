@@ -1,0 +1,5 @@
+[INFO ] 2025-07-27 02:21:05.259 [main] RestAssuredFramework - Create User is executed
+[INFO ] 2025-07-27 02:21:07.581 [main] RestAssuredFramework - test User is executed
+[INFO ] 2025-07-27 02:22:07.598 [main] RestAssuredFramework - Create User is executed
+[INFO ] 2025-07-27 02:22:10.051 [main] RestAssuredFramework - Update User is executed
+[INFO ] 2025-07-27 02:22:12.362 [main] RestAssuredFramework - Delete User is executed
